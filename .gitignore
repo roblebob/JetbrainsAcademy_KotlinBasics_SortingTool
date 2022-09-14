@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/
+/Topics/Introduction to Kotlin/Theory/build/
+/Topics/Taming exceptions/Handle string exception/out/
+/Topics/Taming exceptions/Handle string exception/out/production/classes/
