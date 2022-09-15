@@ -4,8 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1bd854-1f9f-4104-9177-99eb9d3cf7ca" name="Changes" comment="">
+    <list default="true" id="8f1bd854-1f9f-4104-9177-99eb9d3cf7ca" name="Changes" comment="included README.md">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Corners/Sorting_Tool.Topics-Multi-dimensional_list-Corners.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Corners/Sorting_Tool.Topics-Multi-dimensional_list-Corners.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Corners/Sorting_Tool.Topics-Multi-dimensional_list-Corners.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Cube of zeros/Sorting_Tool.Topics-Multi-dimensional_list-Cube_of_zeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Cube of zeros/Sorting_Tool.Topics-Multi-dimensional_list-Cube_of_zeros.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Cube of zeros/Sorting_Tool.Topics-Multi-dimensional_list-Cube_of_zeros.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Practical applications/Sorting_Tool.Topics-Multi-dimensional_list-Practical_applications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Practical applications/Sorting_Tool.Topics-Multi-dimensional_list-Practical_applications.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Practical applications/Sorting_Tool.Topics-Multi-dimensional_list-Practical_applications.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Theory/Sorting_Tool.Topics-Multi-dimensional_list-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Theory/Sorting_Tool.Topics-Multi-dimensional_list-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multi-dimensional list/Theory/Sorting_Tool.Topics-Multi-dimensional_list-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Practical applications/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Practical applications/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Practical applications/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Practical applications/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multi-dimensional list/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,29 +95,32 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BWuOFqK4a29Kz6C11FZIunI469" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/roblebob/simpleTestWithKotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/roblebob/simpleTestWithKotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.inlinked.gradle.project.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Kotlin.MainKt (1)">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
@@ -210,8 +246,16 @@
       <workItem from="1662626811015" duration="5567000" />
       <workItem from="1662718439474" duration="8590000" />
       <workItem from="1662985268888" duration="15305000" />
-      <workItem from="1663182688885" duration="106000" />
+      <workItem from="1663182688885" duration="6072000" />
     </task>
+    <task id="LOCAL-00001" summary="included README.md">
+      <created>1663183033250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663183033250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

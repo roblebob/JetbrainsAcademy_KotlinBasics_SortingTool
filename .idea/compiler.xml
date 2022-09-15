@@ -126,6 +126,10 @@
       <module name="Sorting_Tool.Topics-Map-Map_with_buildMap.main" target="16" />
       <module name="Sorting_Tool.Topics-Map-Sum_of_values.main" target="16" />
       <module name="Sorting_Tool.Topics-Map-Theory.main" target="16" />
+      <module name="Sorting_Tool.Topics-Multi-dimensional_list-Corners.main" target="16" />
+      <module name="Sorting_Tool.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="16" />
+      <module name="Sorting_Tool.Topics-Multi-dimensional_list-Practical_applications.main" target="16" />
+      <module name="Sorting_Tool.Topics-Multi-dimensional_list-Theory.main" target="16" />
       <module name="Sorting_Tool.Topics-Mutable_List-Add_them_all.main" target="16" />
       <module name="Sorting_Tool.Topics-Mutable_List-Banana.main" target="16" />
       <module name="Sorting_Tool.Topics-Mutable_List-New_List.main" target="16" />
